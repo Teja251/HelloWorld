@@ -13,7 +13,8 @@ public class App
         System.out.println("1");
         System.out.println("2");
         
-        Testing2 testing2 = new Testing2();
-        testing2.getTesting2Data();
+        Testing1 testing1 = new Testing1();
+        testing1.getTesting1Data();
+       
     }
 }
