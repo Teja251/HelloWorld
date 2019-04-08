@@ -12,5 +12,8 @@ public class App
         System.out.println("Adding the sop statement for testing::::::::");
         System.out.println("1");
         System.out.println("2");
+        
+        Testing2 testing2 = new Testing2();
+        testing2.getTesting2Data();
     }
 }
